@@ -1,0 +1,185 @@
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.artist-buttons {
+  padding-left:20px;
+  display:flex; 
+  gap:10px;
+  font-family: Arial, sans-serif;
+}
+
+.artist-buttons div {
+  border:1px solid #ccc; 
+  border-radius:8px; 
+  padding:5px; 
+  display:flex; 
+  flex-direction:row; 
+  align-items:center; 
+  width:140px; 
+  cursor:pointer;
+}
+.artist-buttons img {
+width:40px; 
+height:40px; 
+border-radius:8px;
+padding: 5px;
+}
+
+
+
+.artists-list, .album {
+  flex: 1;
+  max-width: 50%;
+}
+
+.artists-list > div {
+display: flex;
+align-items: center;
+gap: 15px;
+}
+
+.artists-list img {
+  float: right;
+  width: 200px;
+  height: 200px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.artists-list {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.tracks {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  background: #18026e;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.album-card {
+  display: flex;
+  gap: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.album-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.album-info h3 {
+  margin: 0 0 5px;
+  font-size: 16px;
+}
+
+.album-info p {
+  margin: 0 0 5px;
+  font-size: 14px;
+  color: #555;
+}
+
+.album-info span {
+  font-weight: bold;
+}
+
+.album-info button {
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  background: #18026e;;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.album-info button:hover {
+  background: #2a02c7;
+}
+
+.album {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  color: #ffffff;
+  font-size: large;
+}
+
+.album img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+  float: right;
+}
+
+
+.cover {
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+
+.cover h2 {
+  margin-top: 80px;
+}
+
+.track-total {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.track {
+  border: 1px solid #aeaeae;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+   gap: 50px;
+    display: flex;
+}
+
+.track span {
+  margin: 0 0 0px;
+  font-size: 20px;
+  color: #4e4e4e;
+}
+
+
+.heart-toggle input {
+display: none;
+}
+
+.heart {
+font-size: 30px;
+cursor: pointer;
+color: #999;
+}
+
+.heart::before {
+content: "♡";
+}
+
+.heart-toggle input:checked + .heart::before {
+content: "♥";
+color: red;
+}

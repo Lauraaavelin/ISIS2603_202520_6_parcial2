@@ -1,0 +1,2072 @@
+[
+  {
+    "id": 1,
+    "spotify_id": "3qm84nBOXUEQ2vnTfUTTFC",
+    "name": "Guns N' Roses",
+    "image": "images/artist_3qm84nBOXUEQ2vnTfUTTFC.jpg",
+    "albums": [
+      {
+        "id": 1,
+        "spotify_id": "22BtZeG6Kq2VvQVlZCgCAG",
+        "name": "Use Your Illusion II (Deluxe Edition)",
+        "year": "2022",
+        "image": "images/album_22BtZeG6Kq2VvQVlZCgCAG.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 1,
+            "spotify_id": "5M3i2SJd0F8C3fhFDzrfvg",
+            "name": "Civil War - 2022 Remaster",
+            "minutes": 7,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 2,
+            "spotify_id": "5iaTztHbYuzbytXX6Q6kEf",
+            "name": "14 Years - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 3,
+            "spotify_id": "5eOPAajbT7tkzWIN3HmPGk",
+            "name": "Yesterdays - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 17,
+            "loved": false
+          },
+          {
+            "id": 4,
+            "spotify_id": "2I6VPze1KqGBWpywOxU3rX",
+            "name": "Knockin' On Heaven's Door - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 35,
+            "loved": false
+          },
+          {
+            "id": 5,
+            "spotify_id": "4LkSVzjzeiVPA5fzhLVVDJ",
+            "name": "Get In The Ring - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 39,
+            "loved": false
+          },
+          {
+            "id": 6,
+            "spotify_id": "2ObjXwhdOMW7RWtqKh8Bjq",
+            "name": "Shotgun Blues - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 7,
+            "spotify_id": "2HT5FeQYmKVDEAySEHCvhN",
+            "name": "Breakdown - 2022 Remaster",
+            "minutes": 7,
+            "seconds": 3,
+            "loved": false
+          },
+          {
+            "id": 8,
+            "spotify_id": "04Z1KcFtzsBCX0sA5kM7kJ",
+            "name": "Pretty Tied Up (The Perils Of Rock N' Roll Decadence) - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 47,
+            "loved": false
+          },
+          {
+            "id": 9,
+            "spotify_id": "2xSQhPTkTCVSJUsfy9gatX",
+            "name": "Locomotive (Complicity) - 2022 Remaster",
+            "minutes": 8,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 10,
+            "spotify_id": "3odrW0c1SLQkmcjWaWXZ4r",
+            "name": "So Fine - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 6,
+            "loved": false
+          },
+          {
+            "id": 11,
+            "spotify_id": "1ddNBAgBrulwksf7HLkDqu",
+            "name": "Estranged - 2022 Remaster",
+            "minutes": 9,
+            "seconds": 21,
+            "loved": false
+          },
+          {
+            "id": 12,
+            "spotify_id": "3wxVjwwwOs2Kzk3HuFpPwP",
+            "name": "You Could Be Mine - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 43,
+            "loved": false
+          },
+          {
+            "id": 13,
+            "spotify_id": "4g6pmyK6Qr6WDq6vTyjHJ3",
+            "name": "Don't Cry - Alternate Lyrics / 2022 Remaster",
+            "minutes": 4,
+            "seconds": 47,
+            "loved": false
+          },
+          {
+            "id": 14,
+            "spotify_id": "2BqdblKmip4fkHLSMwV8lm",
+            "name": "My World - 2022 Remaster",
+            "minutes": 1,
+            "seconds": 26,
+            "loved": false
+          },
+          {
+            "id": 15,
+            "spotify_id": "3ly9VQOVYrCHtsCTDpgagH",
+            "name": "Pretty Tied Up - Live in New York, Ritz Theatre - May 16, 1991",
+            "minutes": 5,
+            "seconds": 14,
+            "loved": false
+          },
+          {
+            "id": 16,
+            "spotify_id": "4I9naIHUs7HqxHMZWEV9vE",
+            "name": "14 Years - Live In London - August 31, 1991",
+            "minutes": 4,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 17,
+            "spotify_id": "6r6YkEntWM50V4saHzsKAe",
+            "name": "Voodoo Child (Slight Return) / Civil War / Voodoo Child (Slight Return) - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
+            "minutes": 8,
+            "seconds": 15,
+            "loved": false
+          },
+          {
+            "id": 18,
+            "spotify_id": "3AJ8HnHXVjhOGUS1R1Jycr",
+            "name": "You Could Be Mine - Live In New York, Ritz Theatre - May 16, 1991",
+            "minutes": 5,
+            "seconds": 33,
+            "loved": false
+          },
+          {
+            "id": 19,
+            "spotify_id": "66oDs6qPpBRpk54omLXdhx",
+            "name": "Drum Solo - Live In Paris, Hippodrome De Vincennes - June 6, 1992",
+            "minutes": 7,
+            "seconds": 21,
+            "loved": false
+          },
+          {
+            "id": 20,
+            "spotify_id": "40ORpRO6JN6yHOYo6ENXdI",
+            "name": "Slash Solo - Live In Paris, Hippodrome De Vincennes - June 6, 1992",
+            "minutes": 4,
+            "seconds": 10,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "spotify_id": "33HYdYXXadqsdZ1NsYmS6o",
+        "name": "Use Your Illusion I (Deluxe Edition)",
+        "year": "2022",
+        "image": "images/album_33HYdYXXadqsdZ1NsYmS6o.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 21,
+            "spotify_id": "7cokIowjRO6F1bYBcC1Ume",
+            "name": "Right Next Door To Hell - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 1,
+            "loved": false
+          },
+          {
+            "id": 22,
+            "spotify_id": "4s09Ij0ZHR30foMrjd1LJW",
+            "name": "Dust N' Bones - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 58,
+            "loved": false
+          },
+          {
+            "id": 23,
+            "spotify_id": "6pyv2vYzOA2qlyWBIXRiVK",
+            "name": "Live And Let Die - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 3,
+            "loved": false
+          },
+          {
+            "id": 24,
+            "spotify_id": "4KbZEsvLTm8mru72MSalf6",
+            "name": "Don't Cry (Original) - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 25,
+            "spotify_id": "1JaDCrZrb2Zuz7OKSoh4cM",
+            "name": "Perfect Crime - 2022 Remaster",
+            "minutes": 2,
+            "seconds": 23,
+            "loved": false
+          },
+          {
+            "id": 26,
+            "spotify_id": "4Ql4H3H30B3VJnJ5Evv7C1",
+            "name": "You Ain't The First - 2022 Remaster",
+            "minutes": 2,
+            "seconds": 36,
+            "loved": false
+          },
+          {
+            "id": 27,
+            "spotify_id": "0UXNwznARKSPqyFUrcdBw2",
+            "name": "Bad Obsession - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 27,
+            "loved": false
+          },
+          {
+            "id": 28,
+            "spotify_id": "2uwnQxPw8nx20d0bPC1edx",
+            "name": "Back Off Bitch - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 2,
+            "loved": false
+          },
+          {
+            "id": 29,
+            "spotify_id": "4C3yLqnotoT5VTwYQtNu2p",
+            "name": "Double Talkin' Jive - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 23,
+            "loved": false
+          },
+          {
+            "id": 30,
+            "spotify_id": "3q9npStSssk7sZWotiNQLK",
+            "name": "November Rain - 2022 Version",
+            "minutes": 8,
+            "seconds": 55,
+            "loved": false
+          },
+          {
+            "id": 31,
+            "spotify_id": "04rGz5XrwhVWc0fvOQPlZL",
+            "name": "The Garden - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 20,
+            "loved": false
+          },
+          {
+            "id": 32,
+            "spotify_id": "7vgCdQo44FWsOEZbstiTS2",
+            "name": "Garden Of Eden - 2022 Remaster",
+            "minutes": 2,
+            "seconds": 43,
+            "loved": false
+          },
+          {
+            "id": 33,
+            "spotify_id": "3oPMtGkXE52DQDUEetsAyT",
+            "name": "Don't Damn Me - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 19,
+            "loved": false
+          },
+          {
+            "id": 34,
+            "spotify_id": "1hhSjd3Lcmv4fC9BhbJpvd",
+            "name": "Bad Apples - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 35,
+            "spotify_id": "4DNWI81QbJxrj65Jjpu5Rx",
+            "name": "Dead Horse - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 16,
+            "loved": false
+          },
+          {
+            "id": 36,
+            "spotify_id": "4GZr2ve4VnMAOqMcGPFdEn",
+            "name": "Coma - 2022 Remaster",
+            "minutes": 10,
+            "seconds": 12,
+            "loved": false
+          },
+          {
+            "id": 37,
+            "spotify_id": "2VPFC2QQptdVKsKp5JT3Db",
+            "name": "Perfect Crime - Live In London, Wembley Stadium - August 31, 1991",
+            "minutes": 2,
+            "seconds": 48,
+            "loved": false
+          },
+          {
+            "id": 38,
+            "spotify_id": "0400aUjHzSNOi8Yw74VSvX",
+            "name": "Bad Obsession - Live In Las Vegas, Thomas & Mack Center - January 25, 1992",
+            "minutes": 6,
+            "seconds": 36,
+            "loved": false
+          },
+          {
+            "id": 39,
+            "spotify_id": "5KsXp26LAHFxQnlF06KaJo",
+            "name": "Right Next Door To Hell - Live in New York, Ritz Theatre - May 16, 1991",
+            "minutes": 3,
+            "seconds": 1,
+            "loved": false
+          },
+          {
+            "id": 40,
+            "spotify_id": "1deGYxemBP1zVxuepHR8HE",
+            "name": "Always On The Run - Live In Paris, Hippodrome De Vincennes - June 6, 1992",
+            "minutes": 4,
+            "seconds": 47,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "spotify_id": "1nnC02B9bhYh6IVFOoij0k",
+        "name": "Use Your Illusion (Super Deluxe)",
+        "year": "2022",
+        "image": "images/album_1nnC02B9bhYh6IVFOoij0k.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 41,
+            "spotify_id": "4jT9blFrbTp7qpT6FNjVhB",
+            "name": "Right Next Door To Hell - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 1,
+            "loved": false
+          },
+          {
+            "id": 42,
+            "spotify_id": "5iYgrpWjYY2lge4MEd5el4",
+            "name": "Dust N' Bones - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 58,
+            "loved": false
+          },
+          {
+            "id": 43,
+            "spotify_id": "6G6yr3KRVya3HrvsqGEK8x",
+            "name": "Live And Let Die - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 3,
+            "loved": false
+          },
+          {
+            "id": 44,
+            "spotify_id": "4L9bucZIOwGXQruNwEhEUv",
+            "name": "Don't Cry (Original) - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 45,
+            "spotify_id": "7HAiRd9VABsHU50Z1DqQi6",
+            "name": "Perfect Crime - 2022 Remaster",
+            "minutes": 2,
+            "seconds": 23,
+            "loved": false
+          },
+          {
+            "id": 46,
+            "spotify_id": "1FPcO9htS9Op9hUWjEVCmW",
+            "name": "You Ain't The First - 2022 Remaster",
+            "minutes": 2,
+            "seconds": 36,
+            "loved": false
+          },
+          {
+            "id": 47,
+            "spotify_id": "1JOb9fu242ykGqBduKifs0",
+            "name": "Bad Obsession - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 27,
+            "loved": false
+          },
+          {
+            "id": 48,
+            "spotify_id": "6d1ak30JieCGqjoWtxUOUO",
+            "name": "Back Off Bitch - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 2,
+            "loved": false
+          },
+          {
+            "id": 49,
+            "spotify_id": "6MB8xX39MujZU2Ue3QiT2C",
+            "name": "Double Talkin' Jive - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 23,
+            "loved": false
+          },
+          {
+            "id": 50,
+            "spotify_id": "5I4jZWqh9KIsX8okri0lYc",
+            "name": "November Rain - 2022 Version",
+            "minutes": 8,
+            "seconds": 55,
+            "loved": false
+          },
+          {
+            "id": 51,
+            "spotify_id": "24rpDbbaWuwn9AryT19Htr",
+            "name": "The Garden - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 20,
+            "loved": false
+          },
+          {
+            "id": 52,
+            "spotify_id": "2dBm1u1etHm4UsZ17S4tSr",
+            "name": "Garden Of Eden - 2022 Remaster",
+            "minutes": 2,
+            "seconds": 43,
+            "loved": false
+          },
+          {
+            "id": 53,
+            "spotify_id": "6jrhZBRgaybTqoVhYopMji",
+            "name": "Don't Damn Me - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 19,
+            "loved": false
+          },
+          {
+            "id": 54,
+            "spotify_id": "3qEhk9RpATXKUDlCeguJEV",
+            "name": "Bad Apples - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 55,
+            "spotify_id": "09uBOM49SzcbO3qbUeVonY",
+            "name": "Dead Horse - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 16,
+            "loved": false
+          },
+          {
+            "id": 56,
+            "spotify_id": "4U1wATmrHH0wyUtsjd0Rom",
+            "name": "Coma - 2022 Remaster",
+            "minutes": 10,
+            "seconds": 12,
+            "loved": false
+          },
+          {
+            "id": 57,
+            "spotify_id": "0AQuexMCCz6DMZPT1H12NB",
+            "name": "Civil War - 2022 Remaster",
+            "minutes": 7,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 58,
+            "spotify_id": "7j2Ba8cTyX9plmeJOg5h3W",
+            "name": "14 Years - 2022 Remaster",
+            "minutes": 4,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 59,
+            "spotify_id": "0xeVPts7iVg5UPexuRNRnD",
+            "name": "Yesterdays - 2022 Remaster",
+            "minutes": 3,
+            "seconds": 17,
+            "loved": false
+          },
+          {
+            "id": 60,
+            "spotify_id": "6vMLyvAK4YqDpVQmjFJKD9",
+            "name": "Knockin' On Heaven's Door - 2022 Remaster",
+            "minutes": 5,
+            "seconds": 35,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "spotify_id": "0suNLpB9xraAv1FcdlITjQ",
+        "name": "Chinese Democracy",
+        "year": "2008",
+        "image": "images/album_0suNLpB9xraAv1FcdlITjQ.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 61,
+            "spotify_id": "0zoK1L5JxJbyk7T2nw367B",
+            "name": "Chinese Democracy",
+            "minutes": 4,
+            "seconds": 43,
+            "loved": false
+          },
+          {
+            "id": 62,
+            "spotify_id": "0S9eOzGwLHUwmjYvB5jG4x",
+            "name": "Shackler's Revenge",
+            "minutes": 3,
+            "seconds": 36,
+            "loved": false
+          },
+          {
+            "id": 63,
+            "spotify_id": "3nW5v0Htr1ySk8czTJIA2V",
+            "name": "Better",
+            "minutes": 4,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 64,
+            "spotify_id": "2iFkNf2prxUIIGEOEK7yd1",
+            "name": "Street Of Dreams",
+            "minutes": 4,
+            "seconds": 46,
+            "loved": false
+          },
+          {
+            "id": 65,
+            "spotify_id": "5nVL5zL17GndMM1jt7VUme",
+            "name": "If The World",
+            "minutes": 4,
+            "seconds": 53,
+            "loved": false
+          },
+          {
+            "id": 66,
+            "spotify_id": "2PrmCyoClC4ulLJR42z74O",
+            "name": "There Was A Time",
+            "minutes": 6,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 67,
+            "spotify_id": "0NgiTxYAXk6iAJuMqFqgaC",
+            "name": "Catcher In The Rye",
+            "minutes": 5,
+            "seconds": 52,
+            "loved": false
+          },
+          {
+            "id": 68,
+            "spotify_id": "1Bm7cD88dROf4W45gozDFz",
+            "name": "Scraped",
+            "minutes": 3,
+            "seconds": 30,
+            "loved": false
+          },
+          {
+            "id": 69,
+            "spotify_id": "3Ipp7nTpEfpUYzT9OExVD0",
+            "name": "Riad N' The Bedouins",
+            "minutes": 4,
+            "seconds": 10,
+            "loved": false
+          },
+          {
+            "id": 70,
+            "spotify_id": "4g9TfQAiEN6lDNRJJsiU9T",
+            "name": "Sorry",
+            "minutes": 6,
+            "seconds": 14,
+            "loved": false
+          },
+          {
+            "id": 71,
+            "spotify_id": "7Btnx3rsOhiUtZ9KzA0ewY",
+            "name": "I.R.S.",
+            "minutes": 4,
+            "seconds": 27,
+            "loved": false
+          },
+          {
+            "id": 72,
+            "spotify_id": "02LharEqotu4zj644j0923",
+            "name": "Madagascar",
+            "minutes": 5,
+            "seconds": 37,
+            "loved": false
+          },
+          {
+            "id": 73,
+            "spotify_id": "2FEWcWHnDmGD6WSqpW4VYu",
+            "name": "This I Love",
+            "minutes": 5,
+            "seconds": 34,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "spotify_id": "0ACr1sBio73jw5czGtBTs3",
+        "name": "Live Era '87-'93 (Live - Deluxe Edition)",
+        "year": "1999",
+        "image": "images/album_0ACr1sBio73jw5czGtBTs3.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 75,
+            "spotify_id": "2jiCWBzLitFxhUHR4SSJ9m",
+            "name": "Nightrain - Live",
+            "minutes": 5,
+            "seconds": 18,
+            "loved": false
+          },
+          {
+            "id": 76,
+            "spotify_id": "4wHpsH3Fz8W5l7Andcoik0",
+            "name": "Mr. Brownstone - Live",
+            "minutes": 5,
+            "seconds": 42,
+            "loved": false
+          },
+          {
+            "id": 77,
+            "spotify_id": "6DL6kXA1DD7joT2CRCo5Kz",
+            "name": "It's So Easy - Live",
+            "minutes": 3,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 78,
+            "spotify_id": "4Bj57w3DnuTFgG55QKUzcd",
+            "name": "Welcome To The Jungle - Live",
+            "minutes": 5,
+            "seconds": 8,
+            "loved": false
+          },
+          {
+            "id": 79,
+            "spotify_id": "5un3T6G3bhFdwlCfr7RyO1",
+            "name": "Dust N' Bones - Live",
+            "minutes": 5,
+            "seconds": 4,
+            "loved": false
+          },
+          {
+            "id": 80,
+            "spotify_id": "3b4S4ioArrPh3qItCCSp49",
+            "name": "My Michelle - Live",
+            "minutes": 3,
+            "seconds": 52,
+            "loved": false
+          },
+          {
+            "id": 81,
+            "spotify_id": "019BUL0X55XrQUm2Q9mJKd",
+            "name": "You're Crazy - Live",
+            "minutes": 4,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 82,
+            "spotify_id": "2A5s4iIF1X6Si9uBSRue5T",
+            "name": "Used To Love Her - Live",
+            "minutes": 4,
+            "seconds": 17,
+            "loved": false
+          },
+          {
+            "id": 83,
+            "spotify_id": "4ZFJWdVA3CqxfXj9EzcZFk",
+            "name": "Patience - Live",
+            "minutes": 6,
+            "seconds": 42,
+            "loved": false
+          },
+          {
+            "id": 84,
+            "spotify_id": "5fVYttOUnEh0ONi132UbeD",
+            "name": "It's Alright - Live",
+            "minutes": 3,
+            "seconds": 7,
+            "loved": false
+          },
+          {
+            "id": 85,
+            "spotify_id": "2pk920YeqkBM9JHycMsPNg",
+            "name": "November Rain - Live",
+            "minutes": 12,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 86,
+            "spotify_id": "7HhuWqO8ujzPo4BFQ6O3a9",
+            "name": "Coma - Live",
+            "minutes": 10,
+            "seconds": 50,
+            "loved": false
+          },
+          {
+            "id": 87,
+            "spotify_id": "3BEssQzomXcHOLtZwHqMcC",
+            "name": "Out Ta Get Me - Live",
+            "minutes": 4,
+            "seconds": 33,
+            "loved": false
+          },
+          {
+            "id": 88,
+            "spotify_id": "0CV54hKJBe5TlQpv8nWKi5",
+            "name": "Pretty Tied Up - Live",
+            "minutes": 5,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 89,
+            "spotify_id": "2UpvHUBRe17v5CgnjSmGr3",
+            "name": "Yesterdays - Live",
+            "minutes": 3,
+            "seconds": 52,
+            "loved": false
+          },
+          {
+            "id": 90,
+            "spotify_id": "6BdoARyGSeOgV2knUFiGvx",
+            "name": "Move To The City - Live",
+            "minutes": 7,
+            "seconds": 59,
+            "loved": false
+          },
+          {
+            "id": 91,
+            "spotify_id": "2I1prXTc1b09D4twLXWP9E",
+            "name": "You Could Be Mine - Live",
+            "minutes": 6,
+            "seconds": 1,
+            "loved": false
+          },
+          {
+            "id": 92,
+            "spotify_id": "7agMOGRg0uIdXozbExDHwi",
+            "name": "Rocket Queen - Live",
+            "minutes": 8,
+            "seconds": 26,
+            "loved": false
+          },
+          {
+            "id": 93,
+            "spotify_id": "0R8DQkS6u0541IIY5r4WKY",
+            "name": "Sweet Child O' Mine - Live",
+            "minutes": 7,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 94,
+            "spotify_id": "1aYNJvoPPG4VCu3d1pIDar",
+            "name": "Knockin' On Heaven's Door - Live",
+            "minutes": 7,
+            "seconds": 26,
+            "loved": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "spotify_id": "6wWVKhxIU2cEi0K81v7HvP",
+    "name": "Rammstein",
+    "image": "images/artist_6wWVKhxIU2cEi0K81v7HvP.jpg",
+    "albums": [
+      {
+        "id": 6,
+        "spotify_id": "75OE7M0wduJyffbffehHuR",
+        "name": "Zeit",
+        "year": "2022",
+        "image": "images/album_75OE7M0wduJyffbffehHuR.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 95,
+            "spotify_id": "514GW1c9Jn21KgZmO6mZIE",
+            "name": "Armee der Tristen",
+            "minutes": 3,
+            "seconds": 25,
+            "loved": false
+          },
+          {
+            "id": 96,
+            "spotify_id": "2KsHzM4L7ThhNJB6MHXkPx",
+            "name": "Zeit",
+            "minutes": 5,
+            "seconds": 21,
+            "loved": false
+          },
+          {
+            "id": 97,
+            "spotify_id": "2UK4qw712yzFh8vYYJGv2B",
+            "name": "Schwarz",
+            "minutes": 4,
+            "seconds": 18,
+            "loved": false
+          },
+          {
+            "id": 98,
+            "spotify_id": "3Ye7vnZdrO2Gq5IyyH3cOp",
+            "name": "Giftig",
+            "minutes": 3,
+            "seconds": 8,
+            "loved": false
+          },
+          {
+            "id": 99,
+            "spotify_id": "2w7Ca8DNYXBCgA6Bht7o0N",
+            "name": "Zick Zack",
+            "minutes": 4,
+            "seconds": 4,
+            "loved": false
+          },
+          {
+            "id": 100,
+            "spotify_id": "1l0arEkM2grgUYMim5SggS",
+            "name": "OK",
+            "minutes": 4,
+            "seconds": 3,
+            "loved": false
+          },
+          {
+            "id": 101,
+            "spotify_id": "0qGZkkxnyfGrUBLflKwBQG",
+            "name": "Meine Tränen",
+            "minutes": 3,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 102,
+            "spotify_id": "0UuNO0yYvsMPlyLF7RfQlg",
+            "name": "Angst",
+            "minutes": 3,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 103,
+            "spotify_id": "5KTBaWu8IOczQ0sPWzZ7MY",
+            "name": "Dicke Titten",
+            "minutes": 3,
+            "seconds": 38,
+            "loved": false
+          },
+          {
+            "id": 104,
+            "spotify_id": "1LvyuaK3gMkd4MLxSEf9MO",
+            "name": "Lügen",
+            "minutes": 3,
+            "seconds": 49,
+            "loved": false
+          },
+          {
+            "id": 105,
+            "spotify_id": "56SLMIzWKrEOWIQ5LCzKXV",
+            "name": "Adieu",
+            "minutes": 4,
+            "seconds": 38,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "spotify_id": "0KpFFHOKe1rz9V7KVO2T2X",
+        "name": "Remixes",
+        "year": "2020",
+        "image": "images/album_0KpFFHOKe1rz9V7KVO2T2X.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 106,
+            "spotify_id": "7vdcKcfFpJqeZvEcX57322",
+            "name": "Du riechst so gut - Scal Remix",
+            "minutes": 4,
+            "seconds": 45,
+            "loved": false
+          },
+          {
+            "id": 107,
+            "spotify_id": "6h6yqCOZ3pl3sDfap2gthe",
+            "name": "Rammstein In The House - The Timewriter Remix",
+            "minutes": 6,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 108,
+            "spotify_id": "6gXgQvmwEKuG7a0BYryqTP",
+            "name": "Du riechst so gut - '98",
+            "minutes": 4,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 109,
+            "spotify_id": "5a8oB9T1jUnHp8qYeq7GQf",
+            "name": "Du riechst so gut - Remix By Faith No More",
+            "minutes": 1,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 110,
+            "spotify_id": "3NPtNSwUZFh7rdLlRB8z4y",
+            "name": "Du riechst so gut - Remix By Günter Schulz & Hiwatt Marshall",
+            "minutes": 4,
+            "seconds": 5,
+            "loved": false
+          },
+          {
+            "id": 111,
+            "spotify_id": "600z55SHrSuc1Hf1VNDKsf",
+            "name": "Du riechst so gut - Remix By Sascha Konietzko",
+            "minutes": 4,
+            "seconds": 46,
+            "loved": false
+          },
+          {
+            "id": 112,
+            "spotify_id": "5K4PS373arH3ct7T2CF6ua",
+            "name": "Du riechst so gut - Remix By Olav Bruhn",
+            "minutes": 4,
+            "seconds": 45,
+            "loved": false
+          },
+          {
+            "id": 113,
+            "spotify_id": "6fXuwBXQJAiMNj7nnhTgzr",
+            "name": "Du riechst so gut - Remix By Sascha Moser",
+            "minutes": 3,
+            "seconds": 53,
+            "loved": false
+          },
+          {
+            "id": 114,
+            "spotify_id": "1CujTynwoMORnfZXAWlXbq",
+            "name": "Du riechst so gut - Remix By Jacob Hellner & Marc Stagg",
+            "minutes": 4,
+            "seconds": 33,
+            "loved": false
+          },
+          {
+            "id": 115,
+            "spotify_id": "0QICW8Y8hSVHbVOXyelFBj",
+            "name": "Du riechst so gut - Migräne Remix By Günter Schulz",
+            "minutes": 5,
+            "seconds": 17,
+            "loved": false
+          },
+          {
+            "id": 116,
+            "spotify_id": "0vzc0vKVshiS9OyyFbAtix",
+            "name": "Rammstein - Eskimos & Egypt Radio Edit",
+            "minutes": 3,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 117,
+            "spotify_id": "0huHCm7zdDrqHPdY3tvwHE",
+            "name": "Rammstein - Eskimos & Egypt Instrumental Edit",
+            "minutes": 3,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 118,
+            "spotify_id": "2gFo6BO3wLur2V6ltl2TDr",
+            "name": "Engel - Extended Version",
+            "minutes": 4,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 119,
+            "spotify_id": "0xk6CBQ9tTu4Q7EwJ8kJlh",
+            "name": "Feuerräder - Demo Version 1994",
+            "minutes": 4,
+            "seconds": 46,
+            "loved": false
+          },
+          {
+            "id": 120,
+            "spotify_id": "1bSMTWvC0cP88Pin830qiJ",
+            "name": "Wilder Wein - Demo Version 1994",
+            "minutes": 5,
+            "seconds": 40,
+            "loved": false
+          },
+          {
+            "id": 121,
+            "spotify_id": "2cVIrXFCsFEFqGH7znC3IC",
+            "name": "Du hast - Remix By Jacob Hellner",
+            "minutes": 6,
+            "seconds": 43,
+            "loved": false
+          },
+          {
+            "id": 122,
+            "spotify_id": "7z2FFaGpxzRV9YZBPpFl3N",
+            "name": "Du hast - Remix By Clawfinger",
+            "minutes": 5,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 123,
+            "spotify_id": "12fJ4cdBBmrgGNvCOicvXH",
+            "name": "Stripped - Psilonaut Mix By Johan Edlund",
+            "minutes": 4,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 124,
+            "spotify_id": "22h4aposg5Mz5PucHeyoDo",
+            "name": "Stripped - Heavy Mental Mix By Charlie Clouser",
+            "minutes": 5,
+            "seconds": 12,
+            "loved": false
+          },
+          {
+            "id": 125,
+            "spotify_id": "4SVDbPYQK6bMCEhGvS8a9o",
+            "name": "Stripped - Tribute To Düsseldorf Mix By Charlie Clouser",
+            "minutes": 5,
+            "seconds": 10,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "spotify_id": "1LoyJQVHPLHE3fCCS8Juek",
+        "name": "Rammstein",
+        "year": "2019",
+        "image": "images/album_1LoyJQVHPLHE3fCCS8Juek.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 126,
+            "spotify_id": "2bPGTMB5sFfFYQ2YvSmup0",
+            "name": "Deutschland",
+            "minutes": 5,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 127,
+            "spotify_id": "5vZ4IeUenK2cHub2d7yfWk",
+            "name": "Radio",
+            "minutes": 4,
+            "seconds": 37,
+            "loved": false
+          },
+          {
+            "id": 128,
+            "spotify_id": "3d3k8g4GTVx9EFIFlOZOEX",
+            "name": "Zeig dich",
+            "minutes": 4,
+            "seconds": 15,
+            "loved": false
+          },
+          {
+            "id": 129,
+            "spotify_id": "7j43FohbLVulScL7S9sQZk",
+            "name": "Ausländer",
+            "minutes": 3,
+            "seconds": 51,
+            "loved": false
+          },
+          {
+            "id": 130,
+            "spotify_id": "15f16lrsDzFeNpHYBTzHLI",
+            "name": "Sex",
+            "minutes": 3,
+            "seconds": 56,
+            "loved": false
+          },
+          {
+            "id": 131,
+            "spotify_id": "2iFgHPoa7FNHwgLnjXzu7F",
+            "name": "Puppe",
+            "minutes": 4,
+            "seconds": 33,
+            "loved": false
+          },
+          {
+            "id": 132,
+            "spotify_id": "4anzVbFPUuZTw0KQeZ0qnu",
+            "name": "Was ich liebe",
+            "minutes": 4,
+            "seconds": 29,
+            "loved": false
+          },
+          {
+            "id": 133,
+            "spotify_id": "1UZs9dauJnxrqYxMIzxnwC",
+            "name": "Diamant",
+            "minutes": 2,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 134,
+            "spotify_id": "0sMmtnF7by7WPNeRXCam9H",
+            "name": "Weit weg",
+            "minutes": 4,
+            "seconds": 20,
+            "loved": false
+          },
+          {
+            "id": 135,
+            "spotify_id": "6X5zsgjDlssIkv0sVYZgx1",
+            "name": "Tattoo",
+            "minutes": 4,
+            "seconds": 11,
+            "loved": false
+          },
+          {
+            "id": 136,
+            "spotify_id": "2bHRnMtpXMUmzDHZrAyxne",
+            "name": "Hallomann",
+            "minutes": 4,
+            "seconds": 11,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "spotify_id": "2SU0P5F7ZSN36pUZeYgAAG",
+        "name": "Paris (Live)",
+        "year": "2017",
+        "image": "images/album_2SU0P5F7ZSN36pUZeYgAAG.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 137,
+            "spotify_id": "4bOH04HnrNuQTY1vj0RFO1",
+            "name": "Intro - Live",
+            "minutes": 4,
+            "seconds": 14,
+            "loved": false
+          },
+          {
+            "id": 138,
+            "spotify_id": "4eUGuSFHlY7hdQxy99Klb1",
+            "name": "Sonne - Live",
+            "minutes": 4,
+            "seconds": 45,
+            "loved": false
+          },
+          {
+            "id": 139,
+            "spotify_id": "26D2Sv7cuoPLmMmT9LuFFC",
+            "name": "Wollt ihr das Bett in Flammen Sehen - Live",
+            "minutes": 5,
+            "seconds": 6,
+            "loved": false
+          },
+          {
+            "id": 140,
+            "spotify_id": "0kzP8mrolprWH4HOlzdoNm",
+            "name": "Keine Lust - Live",
+            "minutes": 4,
+            "seconds": 8,
+            "loved": false
+          },
+          {
+            "id": 141,
+            "spotify_id": "4TUzUUKS7HhZyAD35vgqVn",
+            "name": "Sehnsucht - Live",
+            "minutes": 4,
+            "seconds": 26,
+            "loved": false
+          },
+          {
+            "id": 142,
+            "spotify_id": "43L94GIXyy3eWROPhHE7Cu",
+            "name": "Asche zu Asche - Live",
+            "minutes": 4,
+            "seconds": 5,
+            "loved": false
+          },
+          {
+            "id": 143,
+            "spotify_id": "59hleeRytt12eFVeFMfGyO",
+            "name": "Feuer frei! - Live",
+            "minutes": 3,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 144,
+            "spotify_id": "5sxJ1H0zdjNMPHmH8It9Zc",
+            "name": "Mutter - Live",
+            "minutes": 5,
+            "seconds": 20,
+            "loved": false
+          },
+          {
+            "id": 145,
+            "spotify_id": "249cac1oZNAy4cnrHE25vc",
+            "name": "Mein Teil - Live",
+            "minutes": 7,
+            "seconds": 46,
+            "loved": false
+          },
+          {
+            "id": 146,
+            "spotify_id": "6Ln9SSA1jnTEGBWIqXU90h",
+            "name": "Du riechst so gut - Live",
+            "minutes": 5,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 147,
+            "spotify_id": "67pAsOaDgVL83Kmg8qAt5V",
+            "name": "Links 2 3 4 - Live",
+            "minutes": 5,
+            "seconds": 2,
+            "loved": false
+          },
+          {
+            "id": 148,
+            "spotify_id": "0qrwXiw0o8aoXHbaqSAAzz",
+            "name": "Du hast - Live",
+            "minutes": 4,
+            "seconds": 17,
+            "loved": false
+          },
+          {
+            "id": 149,
+            "spotify_id": "4EUmdHKxX4pDEXuCEvUpO5",
+            "name": "Haifisch - Live",
+            "minutes": 5,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 150,
+            "spotify_id": "6gMpELYzGmzg0qfmLOYsR3",
+            "name": "Bück dich - Live",
+            "minutes": 7,
+            "seconds": 55,
+            "loved": false
+          },
+          {
+            "id": 151,
+            "spotify_id": "44SUKUulmrpttzVTFO1PpB",
+            "name": "Mann gegen Mann - Live",
+            "minutes": 4,
+            "seconds": 15,
+            "loved": false
+          },
+          {
+            "id": 152,
+            "spotify_id": "2Y0to10qebUGz0XGAMdDy3",
+            "name": "Ohne dich - Live",
+            "minutes": 7,
+            "seconds": 29,
+            "loved": false
+          },
+          {
+            "id": 153,
+            "spotify_id": "6DMeNCrJ4xtPEUD1VbLdmO",
+            "name": "Mein Herz brennt - Live",
+            "minutes": 5,
+            "seconds": 8,
+            "loved": false
+          },
+          {
+            "id": 154,
+            "spotify_id": "0wV0Ojyo1xvZKcMIfMSSJP",
+            "name": "Amerika - Live",
+            "minutes": 4,
+            "seconds": 52,
+            "loved": false
+          },
+          {
+            "id": 155,
+            "spotify_id": "79vLBEkNbyBEpwNPpK6us3",
+            "name": "Ich will - Live",
+            "minutes": 4,
+            "seconds": 7,
+            "loved": false
+          },
+          {
+            "id": 156,
+            "spotify_id": "2d9hYyVmy4ZWqxYV18ybhC",
+            "name": "Engel - Live",
+            "minutes": 5,
+            "seconds": 13,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "spotify_id": "6rK4qSVdrNCNnQwRCEFsw9",
+        "name": "XXI - Klavier",
+        "year": "2015",
+        "image": "images/album_6rK4qSVdrNCNnQwRCEFsw9.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 157,
+            "spotify_id": "7BTVN6upMSenp362H7l7i4",
+            "name": "Frühling In Paris",
+            "minutes": 4,
+            "seconds": 8,
+            "loved": false
+          },
+          {
+            "id": 158,
+            "spotify_id": "2nspXti9jNE1NrAMWUpcn5",
+            "name": "Feuer Und Wasser",
+            "minutes": 3,
+            "seconds": 52,
+            "loved": false
+          },
+          {
+            "id": 159,
+            "spotify_id": "6t52nej9JKGC1la8yFVOP6",
+            "name": "Nebel",
+            "minutes": 4,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 160,
+            "spotify_id": "2xldR7qVr1Mc8qODnSFlav",
+            "name": "Sonne",
+            "minutes": 3,
+            "seconds": 53,
+            "loved": false
+          },
+          {
+            "id": 161,
+            "spotify_id": "7ykrJw3p2vPyPbH3mhmqMO",
+            "name": "Klavier",
+            "minutes": 4,
+            "seconds": 3,
+            "loved": false
+          },
+          {
+            "id": 162,
+            "spotify_id": "0k8wzX5KxN3mM5Y0pjqRGj",
+            "name": "Wilder Wein",
+            "minutes": 3,
+            "seconds": 31,
+            "loved": false
+          },
+          {
+            "id": 163,
+            "spotify_id": "1eSYjEo1RBNHbrNkWPQLBb",
+            "name": "Ohne Dich",
+            "minutes": 4,
+            "seconds": 30,
+            "loved": false
+          },
+          {
+            "id": 164,
+            "spotify_id": "0e8RlsROQNiVTRt2dUHbn0",
+            "name": "Ein Lied",
+            "minutes": 3,
+            "seconds": 41,
+            "loved": false
+          },
+          {
+            "id": 165,
+            "spotify_id": "0UWmNPI7CCfHfrVPtm8oZU",
+            "name": "Roter Sand",
+            "minutes": 3,
+            "seconds": 16,
+            "loved": false
+          },
+          {
+            "id": 166,
+            "spotify_id": "7Myy5rV8m98vCmeFpLAr4Y",
+            "name": "Engel",
+            "minutes": 4,
+            "seconds": 16,
+            "loved": false
+          },
+          {
+            "id": 167,
+            "spotify_id": "1TyW43avSSYeHS31qQNjWC",
+            "name": "Seemann",
+            "minutes": 4,
+            "seconds": 35,
+            "loved": false
+          },
+          {
+            "id": 168,
+            "spotify_id": "2Gu2gaNFpcHqZjWKXXoIE5",
+            "name": "Donaukinder",
+            "minutes": 3,
+            "seconds": 53,
+            "loved": false
+          },
+          {
+            "id": 169,
+            "spotify_id": "20GxiTeeyp6NBpeMR44iAT",
+            "name": "Mein Herz Brennt",
+            "minutes": 4,
+            "seconds": 31,
+            "loved": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "spotify_id": "711MCceyCBcFnzjGY4Q7Un",
+    "name": "AC/DC",
+    "image": "images/artist_711MCceyCBcFnzjGY4Q7Un.jpg",
+    "albums": [
+      {
+        "id": 11,
+        "spotify_id": "3bTNxJYk2bwdWBMtrjBxb0",
+        "name": "POWER UP",
+        "year": "2020",
+        "image": "images/album_3bTNxJYk2bwdWBMtrjBxb0.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 170,
+            "spotify_id": "4JDjZ2AzlHnde5uUy0TveV",
+            "name": "Realize",
+            "minutes": 3,
+            "seconds": 37,
+            "loved": false
+          },
+          {
+            "id": 171,
+            "spotify_id": "4gLrfXB3CgRlIPH7KTVKA4",
+            "name": "Rejection",
+            "minutes": 4,
+            "seconds": 6,
+            "loved": false
+          },
+          {
+            "id": 172,
+            "spotify_id": "0sfdiwck2xr4PteGOdyOfz",
+            "name": "Shot In The Dark",
+            "minutes": 3,
+            "seconds": 5,
+            "loved": false
+          },
+          {
+            "id": 173,
+            "spotify_id": "3FR2w9O5i9q3unY3gyjq6E",
+            "name": "Through The Mists Of Time",
+            "minutes": 3,
+            "seconds": 32,
+            "loved": false
+          },
+          {
+            "id": 174,
+            "spotify_id": "0Kq6RzOqkHxnfiA9OGqReU",
+            "name": "Kick You When You're Down",
+            "minutes": 3,
+            "seconds": 10,
+            "loved": false
+          },
+          {
+            "id": 175,
+            "spotify_id": "06hy0gi5aLXcWRjnj9fgoh",
+            "name": "Witch's Spell",
+            "minutes": 3,
+            "seconds": 42,
+            "loved": false
+          },
+          {
+            "id": 176,
+            "spotify_id": "6jtUOVRO4p09Z7E35ERRL7",
+            "name": "Demon Fire",
+            "minutes": 3,
+            "seconds": 30,
+            "loved": false
+          },
+          {
+            "id": 177,
+            "spotify_id": "1ZyQEn0iceHj0Lbt6I6Op3",
+            "name": "Wild Reputation",
+            "minutes": 2,
+            "seconds": 54,
+            "loved": false
+          },
+          {
+            "id": 178,
+            "spotify_id": "3fKXS93P7YOS4xEUnWzkUz",
+            "name": "No Man's Land",
+            "minutes": 3,
+            "seconds": 39,
+            "loved": false
+          },
+          {
+            "id": 179,
+            "spotify_id": "1uhPCuhxeC9wEYl7smMByK",
+            "name": "Systems Down",
+            "minutes": 3,
+            "seconds": 12,
+            "loved": false
+          },
+          {
+            "id": 180,
+            "spotify_id": "0l3jBCAEdeLR9OgQqES9CI",
+            "name": "Money Shot",
+            "minutes": 3,
+            "seconds": 5,
+            "loved": false
+          },
+          {
+            "id": 181,
+            "spotify_id": "1nuPjx9gZH0aHZt8Q5Njx6",
+            "name": "Code Red",
+            "minutes": 3,
+            "seconds": 30,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "spotify_id": "6OwvO40ahugJE5PH4TjqTg",
+        "name": "Rock or Bust",
+        "year": "2014",
+        "image": "images/album_6OwvO40ahugJE5PH4TjqTg.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 182,
+            "spotify_id": "2vyae4DvSU2gs8OMOGwXF2",
+            "name": "Rock or Bust",
+            "minutes": 3,
+            "seconds": 3,
+            "loved": false
+          },
+          {
+            "id": 183,
+            "spotify_id": "3fpzBeEHvuXKOl7QeVe1iz",
+            "name": "Play Ball",
+            "minutes": 2,
+            "seconds": 47,
+            "loved": false
+          },
+          {
+            "id": 184,
+            "spotify_id": "5xGHeN58fFOcORW0pRZznn",
+            "name": "Rock the Blues Away",
+            "minutes": 3,
+            "seconds": 24,
+            "loved": false
+          },
+          {
+            "id": 185,
+            "spotify_id": "4WpGOn71DcfB9zMvnN9mLl",
+            "name": "Miss Adventure",
+            "minutes": 2,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 186,
+            "spotify_id": "2eSsmjwzDB9JTGvn2ZPLE9",
+            "name": "Dogs of War",
+            "minutes": 3,
+            "seconds": 35,
+            "loved": false
+          },
+          {
+            "id": 187,
+            "spotify_id": "5CqTorhnA1GUNh1Z8PnGiS",
+            "name": "Got Some Rock & Roll Thunder",
+            "minutes": 3,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 188,
+            "spotify_id": "5aoTIWdzgcjGo3SdjxqWSf",
+            "name": "Hard Times",
+            "minutes": 2,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 189,
+            "spotify_id": "1ULNWGJD3skjg0jWjhCFHc",
+            "name": "Baptism By Fire",
+            "minutes": 3,
+            "seconds": 30,
+            "loved": false
+          },
+          {
+            "id": 190,
+            "spotify_id": "57NrsUX4Ix819R67iiwcos",
+            "name": "Rock the House",
+            "minutes": 2,
+            "seconds": 42,
+            "loved": false
+          },
+          {
+            "id": 191,
+            "spotify_id": "7qnCJHj5rzdKzQKkQmrlad",
+            "name": "Sweet Candy",
+            "minutes": 3,
+            "seconds": 9,
+            "loved": false
+          },
+          {
+            "id": 192,
+            "spotify_id": "1v2dqCvCUf2TmxtbKXvLFN",
+            "name": "Emission Control",
+            "minutes": 3,
+            "seconds": 41,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "spotify_id": "4H6JMsvxmh0U7VBYiWiyLa",
+        "name": "Live at River Plate",
+        "year": "2012",
+        "image": "images/album_4H6JMsvxmh0U7VBYiWiyLa.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 193,
+            "spotify_id": "2hzg8fX8NGSK4loyJbNLr1",
+            "name": "Rock N Roll Train - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 41,
+            "loved": false
+          },
+          {
+            "id": 194,
+            "spotify_id": "5x1wkgdotvZwgmgscxFWcz",
+            "name": "Hell Ain't a Bad Place to Be - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 27,
+            "loved": false
+          },
+          {
+            "id": 195,
+            "spotify_id": "7JLqofLzcpdjFHc6oRSBGf",
+            "name": "Back In Black - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 15,
+            "loved": false
+          },
+          {
+            "id": 196,
+            "spotify_id": "4eJTrppVPYaf4RTVhFoLiV",
+            "name": "Big Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 7,
+            "loved": false
+          },
+          {
+            "id": 197,
+            "spotify_id": "0q3cKVAjGC0NqmkcEcQDy8",
+            "name": "Dirty Deeds Done Dirt Cheap - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 58,
+            "loved": false
+          },
+          {
+            "id": 198,
+            "spotify_id": "6q7XBzRnDqSXggczzNgSbE",
+            "name": "Shot Down in Flames - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 3,
+            "seconds": 47,
+            "loved": false
+          },
+          {
+            "id": 199,
+            "spotify_id": "7eHlRQ5acXEIMdGAKe00fO",
+            "name": "Thunderstruck - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 5,
+            "seconds": 32,
+            "loved": false
+          },
+          {
+            "id": 200,
+            "spotify_id": "0YhEKbKui5CB39vlvUzpkm",
+            "name": "Black Ice - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 3,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 201,
+            "spotify_id": "7DXTI7oKuIr06wNQ7WVmjV",
+            "name": "The Jack - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 10,
+            "seconds": 12,
+            "loved": false
+          },
+          {
+            "id": 202,
+            "spotify_id": "6ZIM0F8bSeI2OH6n3sJByc",
+            "name": "Hells Bells - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 5,
+            "seconds": 37,
+            "loved": false
+          },
+          {
+            "id": 203,
+            "spotify_id": "3C4D0HOQdvc4AWhMeW4fFt",
+            "name": "Shoot to Thrill - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 5,
+            "seconds": 55,
+            "loved": false
+          },
+          {
+            "id": 204,
+            "spotify_id": "26xgWDWwV01L1f3jV1Fu3D",
+            "name": "War Machine - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 3,
+            "seconds": 39,
+            "loved": false
+          },
+          {
+            "id": 205,
+            "spotify_id": "1hBoa6sbaicdHqQY3a9xWF",
+            "name": "Dog Eat Dog - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 5,
+            "seconds": 9,
+            "loved": false
+          },
+          {
+            "id": 206,
+            "spotify_id": "778MsQxm8FaGUpZH6jttfr",
+            "name": "You Shook Me All Night Long - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 1,
+            "loved": false
+          },
+          {
+            "id": 207,
+            "spotify_id": "5q7dkO4CQpC3INAvMx55wT",
+            "name": "T.N.T. - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 3,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 208,
+            "spotify_id": "6bZQwL1KmpE3y4TH3jIVgr",
+            "name": "Whole Lotta Rosie - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 5,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 209,
+            "spotify_id": "2q0FeOVtIivDv9WWzvPH6J",
+            "name": "Let There Be Rock - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 18,
+            "seconds": 6,
+            "loved": false
+          },
+          {
+            "id": 210,
+            "spotify_id": "7vTCGXUv3XOKScExgMtmel",
+            "name": "Highway to Hell - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 4,
+            "seconds": 44,
+            "loved": false
+          },
+          {
+            "id": 211,
+            "spotify_id": "6CszSinwzUcQRponsCm2CR",
+            "name": "For Those About to Rock (We Salute You) - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+            "minutes": 7,
+            "seconds": 45,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "spotify_id": "7qVfz4UGONwEd5nQjj0ESN",
+        "name": "Black Ice",
+        "year": "2008",
+        "image": "images/album_7qVfz4UGONwEd5nQjj0ESN.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 212,
+            "spotify_id": "4feXJ5IC3avXsVW9WNFSag",
+            "name": "Rock N Roll Train",
+            "minutes": 4,
+            "seconds": 20,
+            "loved": false
+          },
+          {
+            "id": 213,
+            "spotify_id": "4K3ReloaWQZmMz6jrLQ34V",
+            "name": "Skies on Fire",
+            "minutes": 3,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 214,
+            "spotify_id": "6vgEMqEmhSkv2G23nl1VTu",
+            "name": "Big Jack",
+            "minutes": 3,
+            "seconds": 57,
+            "loved": false
+          },
+          {
+            "id": 215,
+            "spotify_id": "4OrKIUhgiIiOefxwmrVedV",
+            "name": "Anything Goes",
+            "minutes": 3,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 216,
+            "spotify_id": "5YnNWHKCJaJKwbagXDb5Uf",
+            "name": "War Machine",
+            "minutes": 3,
+            "seconds": 10,
+            "loved": false
+          },
+          {
+            "id": 217,
+            "spotify_id": "6GIow0bPNRxQwCgCJODRHq",
+            "name": "Smash N Grab",
+            "minutes": 4,
+            "seconds": 6,
+            "loved": false
+          },
+          {
+            "id": 218,
+            "spotify_id": "5yx3jekDsFzX987CIHX2Yn",
+            "name": "Spoilin' for a Fight",
+            "minutes": 3,
+            "seconds": 17,
+            "loved": false
+          },
+          {
+            "id": 219,
+            "spotify_id": "2L4PQQuGuGaCpT8pYNxka6",
+            "name": "Wheels",
+            "minutes": 3,
+            "seconds": 28,
+            "loved": false
+          },
+          {
+            "id": 220,
+            "spotify_id": "1KS8jTXFTx6Ue7GijLLGTU",
+            "name": "Decibel",
+            "minutes": 3,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 221,
+            "spotify_id": "4Pm55wDKHjx8JQtzUK0loE",
+            "name": "Stormy May Day",
+            "minutes": 3,
+            "seconds": 10,
+            "loved": false
+          },
+          {
+            "id": 222,
+            "spotify_id": "6QitPoNJ9DPtBAA5N6LWYA",
+            "name": "She Likes Rock N Roll",
+            "minutes": 3,
+            "seconds": 53,
+            "loved": false
+          },
+          {
+            "id": 223,
+            "spotify_id": "7kiKiDlZVrwufrqegBdUqt",
+            "name": "Money Made",
+            "minutes": 4,
+            "seconds": 15,
+            "loved": false
+          },
+          {
+            "id": 224,
+            "spotify_id": "6RYm3vNuXgILX6yTVWl4ln",
+            "name": "Rock N Roll Dream",
+            "minutes": 4,
+            "seconds": 41,
+            "loved": false
+          },
+          {
+            "id": 225,
+            "spotify_id": "54Qq4F7r3l1CsMOVxj2GJQ",
+            "name": "Rocking All the Way",
+            "minutes": 3,
+            "seconds": 22,
+            "loved": false
+          },
+          {
+            "id": 226,
+            "spotify_id": "3Axmw41lmMoXih3NJYzbXb",
+            "name": "Black Ice",
+            "minutes": 3,
+            "seconds": 25,
+            "loved": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "spotify_id": "5JPVHEB67TREre4Q8JOfCQ",
+        "name": "Stiff Upper Lip",
+        "year": "2000",
+        "image": "images/album_5JPVHEB67TREre4Q8JOfCQ.jpg",
+        "loved": false,
+        "tracks": [
+          {
+            "id": 227,
+            "spotify_id": "1KBuhAHzia2qoD4u6YhvER",
+            "name": "Stiff Upper Lip",
+            "minutes": 3,
+            "seconds": 34,
+            "loved": false
+          },
+          {
+            "id": 228,
+            "spotify_id": "6x4UZ92rUZbRxUzvx0JVl6",
+            "name": "Meltdown",
+            "minutes": 3,
+            "seconds": 41,
+            "loved": false
+          },
+          {
+            "id": 229,
+            "spotify_id": "2BNFtsFjAXw46wRq0injZj",
+            "name": "House of Jazz",
+            "minutes": 3,
+            "seconds": 56,
+            "loved": false
+          },
+          {
+            "id": 230,
+            "spotify_id": "79fB8SJnwlaGCbP4hFFWG0",
+            "name": "Hold Me Back",
+            "minutes": 3,
+            "seconds": 59,
+            "loved": false
+          },
+          {
+            "id": 231,
+            "spotify_id": "6xs17NF4X10Y7UGwto7S7Z",
+            "name": "Safe in New York City",
+            "minutes": 3,
+            "seconds": 59,
+            "loved": false
+          },
+          {
+            "id": 232,
+            "spotify_id": "4GLQAKOPFXOI07JzfrniZs",
+            "name": "Can't Stand Still",
+            "minutes": 3,
+            "seconds": 41,
+            "loved": false
+          },
+          {
+            "id": 233,
+            "spotify_id": "2TCEl9FdIPmIXyM2Jd6Lws",
+            "name": "Can't Stop Rock 'n' Roll",
+            "minutes": 4,
+            "seconds": 1,
+            "loved": false
+          },
+          {
+            "id": 234,
+            "spotify_id": "7lrBHMaXy0klQR4KFZuwAs",
+            "name": "Satellite Blues",
+            "minutes": 3,
+            "seconds": 46,
+            "loved": false
+          },
+          {
+            "id": 235,
+            "spotify_id": "6MJ5Q5tcNIWDrdBt3woKdj",
+            "name": "Damned",
+            "minutes": 3,
+            "seconds": 51,
+            "loved": false
+          },
+          {
+            "id": 236,
+            "spotify_id": "1B7YWCnmn6bWii1Pyy8cfK",
+            "name": "Come and Get It",
+            "minutes": 4,
+            "seconds": 2,
+            "loved": false
+          },
+          {
+            "id": 237,
+            "spotify_id": "2filqLyVGxteotSCD8b4Jt",
+            "name": "All Screwed Up",
+            "minutes": 4,
+            "seconds": 36,
+            "loved": false
+          },
+          {
+            "id": 238,
+            "spotify_id": "3rwdLlTki1Y5YLU9DOU4ks",
+            "name": "Give It Up",
+            "minutes": 3,
+            "seconds": 55,
+            "loved": false
+          }
+        ]
+      }
+    ]
+  }
+]
