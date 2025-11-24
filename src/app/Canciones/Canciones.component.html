@@ -1,106 +1,32 @@
+<div class="album" *ngIf="album">
 
+ 
+  <div class="cover"
+    [ngStyle]="{
+      'background-image': 'url(' + album.image + ')',
+      'background-size': 'cover',
+      'background-position': 'center'
+    }">
 
-
-  <div class="album">
-    <div class="cover"
-      style="background-image: url('images/album_0suNLpB9xraAv1FcdlITjQ.jpg'); background-size: cover; background-position: center;">
-      <h2>Chinese Democracy (2008)</h2>
-      <div class="track-total">Tracks: 12</div>
-    </div>
-    <div class="track">
-      <span>1 - Chinese Democracy</span>
-      <span>4:43</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked" checked>
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>2 - Shackler's Revenge</span>
-      <span>3:36</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked">
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>3 - Better</span>
-      <span>4:57</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked" checked>
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>4 - If The World</span>
-      <span>4:53</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked">
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>5 - There Was A Time</span>
-      <span>6:40</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked" checked>
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>6 - Catcher In The Rye</span>
-      <span>5:52</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked" checked>
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>7 - Scraped</span>
-      <span>3:30</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked">
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>8 - Riad N' The Bedouins</span>
-      <span>4:10</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked">
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>9 - Sorry</span>
-      <span>6:14</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked">
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>10 - I.R.S.</span>
-      <span>4:27</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked" checked>
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>11 - Madagascar</span>
-      <span>4:37</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked" checked>
-        <span class="heart"></span>
-      </label>
-    </div>
-    <div class="track">
-      <span>12 - This I Love</span>
-      <span>5:34</span>
-      <label class="heart-toggle">
-        <input type="checkbox" name="liked">
-        <span class="heart"></span>
-      </label>
-    </div>
+    <h2>{{ album.name }} ({{ album.year }})</h2>
+    <div class="track-total">Tracks: {{ album.tracks.length }}</div>
   </div>
+
+
+  @for (track of album.tracks; track $index) {
+    <div class="track">
+      <span>{{ $index + 1 }} - {{ track.name }}</span>
+      <span>{{ track.duration }}</span>
+
+      <label class="heart-toggle">
+        <input 
+          type="checkbox" 
+          [checked]="track.loved"
+          (change)="toggleTrack(track)"
+        >
+        <span class="heart"></span>
+      </label>
+    </div>
+  }
+
+</div>
