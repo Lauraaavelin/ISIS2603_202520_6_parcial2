@@ -1,0 +1,23 @@
+ <div class="artists-list">
+    <div >
+      <img src="{{artista.image}}" alt="{{artista.name}}" width="150px">
+      <h2>{{artista.name}}</h2>
+    </div>
+
+    @for (a of albumnes; track $index ) {
+    <div class="album-card">
+      <img src="{{a.image}}" alt="{{artista.name}} - {{a.name}}" width="100px">
+      <div class="album-info">
+        <h3>{{a.name}}
+          <label class="heart-toggle">
+            <input type="checkbox" name="liked" checked>
+            <span class="heart"></span>
+          </label>
+          <p>{{a.year}}</p>
+        </h3>
+        <span>Tracks: {{a.tracks.length}}</span>
+         <button (click)="abrirTracks(a)">Open tracks</button>
+      </div>
+    </div>
+    }
+</div>
